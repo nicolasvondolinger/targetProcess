@@ -1,0 +1,5 @@
+Resposta 1 : De acordo com o enunciado e com as informações dadas, no momento que os dois se cruzarem, os dois vão estar a mesma distância de Ribeirão Preto, e depois desse momento, o caminhão vai ser o mais próximo, já que é o único nessa direção.
+
+Resposta 2: Considerei que o caminhao enfrentou os dois pedagios de uma vez assim que saiu da cidade, nesse sentido, ele perdeu 10min de vantagem contra o carro, que em 10min percorreu cerca de 18.3Km
+
+O encontro ocorre no Km 65.6 da rodovia, aproximadamente e demora cerca de 26 minutos para ocorrer. No momento do cruzamento, os dois estão a mesma distância de Ribeirão Preto e logo após o caminhão se torna o mais próximo, devido a direção.
